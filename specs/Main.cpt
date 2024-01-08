@@ -1,0 +1,42 @@
+
+# PopUp gorunumu engellenir
+* "5" saniye kadar beklenir
+* PopUp kapatilir
+
+# Pop-up'lar kapatilir
+* "3" saniye kadar beklenir
+* Pop-up'lari kapat
+
+# Rastgele bir ürün secimi gerceklestirilir
+* "4" saniye kadar beklenir
+* Rastgele bir ürün seçilir
+
+# Rastgele bir beden secimi yapilir
+* "4" saniye kadar beklenir
+* Rastgele bir beden seçilir
+
+# Hesaba <name> and <password> bigisi ile giris yapilir
+* Hesaba tiklanir
+* Kullanici adi <name> yazilir
+* Sifre <password> yazilir
+* Giris yap butonuna tiklanir
+
+# Rastgele bir bordo cizme aratilir
+* Pop-up'lari kapat
+* Arama butonuna tiklanir
+* Bordo cizme aratilir
+* Pop-up'lar kapatilir
+* Rastgele bir ürün secimi gerceklestirilir
+
+# Rastgele secilen bordo cizme sepetten cikarilir
+* Sepete gidilir
+* Urun silinir
+
+# Trendyol hesabindan cikis yapilir
+* Hesabima gidilir
+* "2" kere yukarı dogru kaydir - AND
+* "3" saniye kadar beklenir
+* Hesap ayarlarina gidilir
+* "3" saniye kadar beklenir
+* "2" kere yukarı dogru kaydir - AND
+* Hesaptan cikis yapilir

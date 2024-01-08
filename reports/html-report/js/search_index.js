@@ -1,0 +1,1 @@
+var index = {"Tags":{"urunEkleCikarma":["specs/UrunEkleCikar.html"]},"Specs":{"Trendyol Mobile Automation":["specs/UrunEkleCikar.html"]}};

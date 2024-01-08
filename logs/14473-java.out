@@ -1,0 +1,93 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 366milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 366"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 62011"}
+{"logLevel":"info","message":"Listening on port:62011"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectRandomProductSize' and 'org.example.StepImplementation.selectRandomProductSize'"}
+{"logLevel":"debug","message":"Found Rastgele bir beden seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToExitButton' and 'org.example.StepImplementation.clickToExitButton'"}
+{"logLevel":"debug","message":"Found Hesaptan cikis yapilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.loginPermission' and 'org.example.StepImplementation.loginPermission'"}
+{"logLevel":"debug","message":"Found Trendyol sayfasi acilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.addProductToTheCart' and 'org.example.StepImplementation.addProductToTheCart'"}
+{"logLevel":"debug","message":"Found Sepete urun eklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopups' and 'org.example.StepImplementation.closePopups'"}
+{"logLevel":"debug","message":"Found Pop-up'lari kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.searchForBurgundyBoot' and 'org.example.StepImplementation.searchForBurgundyBoot'"}
+{"logLevel":"debug","message":"Found Bordo cizme aratilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToLayoutAccountButton' and 'org.example.StepImplementation.clickToLayoutAccountButton'"}
+{"logLevel":"debug","message":"Found Hesap ayarlarina gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.addProductToTheCart2' and 'org.example.StepImplementation.addProductToTheCart2'"}
+{"logLevel":"debug","message":"Found Rastgele secilen beden sepete eklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.genderButton' and 'org.example.StepImplementation.genderButton'"}
+{"logLevel":"debug","message":"Found Cinsiyet secilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToMyAccountButton' and 'org.example.StepImplementation.clickToMyAccountButton'"}
+{"logLevel":"debug","message":"Found Hesabima gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.verifyBasket' and 'org.example.StepImplementation.verifyBasket'"}
+{"logLevel":"debug","message":"Found Sepetin bos oldugu kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInButton' and 'org.example.StepImplementation.LogInButton'"}
+{"logLevel":"debug","message":"Found Giris yap butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.goToTheCart' and 'org.example.StepImplementation.goToTheCart'"}
+{"logLevel":"debug","message":"Found Sepete gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectRandomProduct' and 'org.example.StepImplementation.selectRandomProduct'"}
+{"logLevel":"debug","message":"Found Rastgele bir ürün seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.passwordText' and 'org.example.StepImplementation.passwordText'"}
+{"logLevel":"debug","message":"Found Sifre yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollDownPage' and 'org.example.StepImplementation.scrollDownPage'"}
+{"logLevel":"debug","message":"Found Sayfayı aşağı kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToHomeButton' and 'org.example.StepImplementation.clickToHomeButton'"}
+{"logLevel":"debug","message":"Found Anasayfa'ya gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitWitSeconds' and 'org.example.StepImplementation.waitWitSeconds'"}
+{"logLevel":"debug","message":"Found {} saniye kadar beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInAccount' and 'org.example.StepImplementation.LogInAccount'"}
+{"logLevel":"debug","message":"Found Kullanici adi yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopup' and 'org.example.StepImplementation.closePopup'"}
+{"logLevel":"debug","message":"Found PopUp kapatilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickLogIn' and 'org.example.StepImplementation.clickLogIn'"}
+{"logLevel":"debug","message":"Found Hesaba tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollDownPage2' and 'org.example.StepImplementation.scrollDownPage2'"}
+{"logLevel":"debug","message":"Found Sayfayı aşağı kaydır2 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.removeProductFromTheCart' and 'org.example.StepImplementation.removeProductFromTheCart'"}
+{"logLevel":"debug","message":"Found Urun silinir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToSearchButton' and 'org.example.StepImplementation.clickToSearchButton'"}
+{"logLevel":"debug","message":"Found Arama butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSayfayı aşağı kaydır2 : public void scrollDownPage2()"}
+{"logLevel":"debug","message":"\tGiris yap butonuna tiklanir : public void LogInButton()"}
+{"logLevel":"debug","message":"\tBordo cizme aratilir : public void searchForBurgundyBoot()"}
+{"logLevel":"debug","message":"\t{} saniye kadar beklenir : public void waitWitSeconds(ınt Key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tTrendyol sayfasi acilir : public void loginPermission()"}
+{"logLevel":"debug","message":"\tArama butonuna tiklanir : public void clickToSearchButton()"}
+{"logLevel":"debug","message":"\tSifre yazilir : public void passwordText()"}
+{"logLevel":"debug","message":"\tSepetin bos oldugu kontrol edilir : public void verifyBasket()"}
+{"logLevel":"debug","message":"\tSepete urun eklenir : public void addProductToTheCart()"}
+{"logLevel":"debug","message":"\tHesaba tiklanir : public void clickLogIn()"}
+{"logLevel":"debug","message":"\tKullanici adi yazilir : public void LogInAccount()"}
+{"logLevel":"debug","message":"\tAnasayfa'ya gidilir : public void clickToHomeButton()"}
+{"logLevel":"debug","message":"\tRastgele bir ürün seçilir : public void selectRandomProduct()"}
+{"logLevel":"debug","message":"\tHesap ayarlarina gidilir : public void clickToLayoutAccountButton()"}
+{"logLevel":"debug","message":"\tHesaptan cikis yapilir : public void clickToExitButton()"}
+{"logLevel":"debug","message":"\tPopUp kapatilir : public void closePopup()"}
+{"logLevel":"debug","message":"\tPop-up'lari kapat : public void closePopups()"}
+{"logLevel":"debug","message":"\tSayfayı aşağı kaydır : public void scrollDownPage()"}
+{"logLevel":"debug","message":"\tRastgele bir beden seçilir : public void selectRandomProductSize()"}
+{"logLevel":"debug","message":"\tRastgele secilen beden sepete eklenir : public void addProductToTheCart2()"}
+{"logLevel":"debug","message":"\tCinsiyet secilir : public void genderButton() throws InterruptedException"}
+{"logLevel":"debug","message":"\tHesabima gidilir : public void clickToMyAccountButton()"}
+{"logLevel":"debug","message":"\tUrun silinir : public void removeProductFromTheCart()"}
+{"logLevel":"debug","message":"\tSepete gidilir : public void goToTheCart()"}
+....Android baslatildi....
+Ara 26, 2023 3:34:44 ÖS io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Cinsiyet secilir' using 'class org.example.StepImplementation.genderButton"}
+...Test bitti...
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}

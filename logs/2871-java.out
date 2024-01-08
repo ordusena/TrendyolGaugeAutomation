@@ -1,0 +1,169 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 413milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 413"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 55613"}
+{"logLevel":"info","message":"Listening on port:55613"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectRandomProductSize' and 'org.example.StepImplementation.selectRandomProductSize'"}
+{"logLevel":"debug","message":"Found Rastgele bir beden seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.loginPermission' and 'org.example.StepImplementation.loginPermission'"}
+{"logLevel":"debug","message":"Found Trendyol sayfası açılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.addProductToTheCart' and 'org.example.StepImplementation.addProductToTheCart'"}
+{"logLevel":"debug","message":"Found Sepete urun eklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopups' and 'org.example.StepImplementation.closePopups'"}
+{"logLevel":"debug","message":"Found Pop-up'ları kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.searchForBurgundyBoot' and 'org.example.StepImplementation.searchForBurgundyBoot'"}
+{"logLevel":"debug","message":"Found Bordo cizme aratilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.addProductToTheCart2' and 'org.example.StepImplementation.addProductToTheCart2'"}
+{"logLevel":"debug","message":"Found Rastgele secilen beden sepete eklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.genderButton' and 'org.example.StepImplementation.genderButton'"}
+{"logLevel":"debug","message":"Found Cinsiyet secilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.verifyBasket' and 'org.example.StepImplementation.verifyBasket'"}
+{"logLevel":"debug","message":"Found Sepetin bos oldugu kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInButton' and 'org.example.StepImplementation.LogInButton'"}
+{"logLevel":"debug","message":"Found Giris yap butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.goToTheCart' and 'org.example.StepImplementation.goToTheCart'"}
+{"logLevel":"debug","message":"Found Sepete gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectRandomProduct' and 'org.example.StepImplementation.selectRandomProduct'"}
+{"logLevel":"debug","message":"Found Rastgele bir ürün seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.passwordText' and 'org.example.StepImplementation.passwordText'"}
+{"logLevel":"debug","message":"Found Sifre yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToHomeButton' and 'org.example.StepImplementation.clickToHomeButton'"}
+{"logLevel":"debug","message":"Found Anasayfa'ya gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitWitSeconds' and 'org.example.StepImplementation.waitWitSeconds'"}
+{"logLevel":"debug","message":"Found {} saniye kadar beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInAccount' and 'org.example.StepImplementation.LogInAccount'"}
+{"logLevel":"debug","message":"Found Kullanici adi yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopup' and 'org.example.StepImplementation.closePopup'"}
+{"logLevel":"debug","message":"Found PopUp kapatilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickLogIn' and 'org.example.StepImplementation.clickLogIn'"}
+{"logLevel":"debug","message":"Found Hesaba tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.removeProductFromTheCart' and 'org.example.StepImplementation.removeProductFromTheCart'"}
+{"logLevel":"debug","message":"Found Urun silinir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToSearchButton' and 'org.example.StepImplementation.clickToSearchButton'"}
+{"logLevel":"debug","message":"Found Arama butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tRastgele bir ürün seçilir : public void selectRandomProduct()"}
+{"logLevel":"debug","message":"\tPopUp kapatilir : public void closePopup()"}
+{"logLevel":"debug","message":"\tGiris yap butonuna tiklanir : public void LogInButton()"}
+{"logLevel":"debug","message":"\tBordo cizme aratilir : public void searchForBurgundyBoot()"}
+{"logLevel":"debug","message":"\t{} saniye kadar beklenir : public void waitWitSeconds(ınt Key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tArama butonuna tiklanir : public void clickToSearchButton()"}
+{"logLevel":"debug","message":"\tSifre yazilir : public void passwordText()"}
+{"logLevel":"debug","message":"\tRastgele bir beden seçilir : public void selectRandomProductSize()"}
+{"logLevel":"debug","message":"\tRastgele secilen beden sepete eklenir : public void addProductToTheCart2()"}
+{"logLevel":"debug","message":"\tCinsiyet secilir : public void genderButton()"}
+{"logLevel":"debug","message":"\tUrun silinir : public void removeProductFromTheCart()"}
+{"logLevel":"debug","message":"\tTrendyol sayfası açılır : public void loginPermission()"}
+{"logLevel":"debug","message":"\tSepetin bos oldugu kontrol edilir : public void verifyBasket()"}
+{"logLevel":"debug","message":"\tPop-up'ları kapat : public void closePopups()"}
+{"logLevel":"debug","message":"\tSepete urun eklenir : public void addProductToTheCart()"}
+{"logLevel":"debug","message":"\tSepete gidilir : public void goToTheCart()"}
+{"logLevel":"debug","message":"\tHesaba tiklanir : public void clickLogIn()"}
+{"logLevel":"debug","message":"\tKullanici adi yazilir : public void LogInAccount()"}
+{"logLevel":"debug","message":"\tAnasayfa'ya gidilir : public void clickToHomeButton()"}
+....Android baslatildi....
+Ara 03, 2023 8:32:07 ÖS io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Trendyol sayfası açılır' using 'class org.example.StepImplementation.loginPermission"}
+20:32:08.579 [pool-2-thread-1] ERROR org.example.StepImplementation - Tıklama sırasında hata oluştu
+org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Sena-Air-2.home', ip: '2a02:e0:592d:e600:b085:d6da:6458:1273%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '21'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.trendyol.common.splash...., appPackage: trendyol.com, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.trendyol.common.splash...., appPackage: trendyol.com, autoGrantPermissions: true, deviceName: emulator-5554, newCommandTimeout: 3000, platformName: android}, deviceApiLevel: 30, deviceManufacturer: Google, deviceModel: sdk_gphone_arm64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 3000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 2c80ad23-228f-4e08-9ba8-0ea453de0422
+*** Element info: {Using=id, value=trendyol.com:id/tab_account}
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249) ~[selenium-support-3.141.59.jar:?]
+	at org.example.methods.Methods.waitForElementToBeClickable(Methods.java:92) ~[test-classes/:?]
+	at org.example.StepImplementation.loginPermission(StepImplementation.java:26) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:30) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:44) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166) ~[gauge-java-0.9.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Cinsiyet secilir' using 'class org.example.StepImplementation.genderButton"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'PopUp kapatilir' using 'class org.example.StepImplementation.closePopup"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Hesaba tiklanir' using 'class org.example.StepImplementation.clickLogIn"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Kullanici adi yazilir' using 'class org.example.StepImplementation.LogInAccount"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sifre yazilir' using 'class org.example.StepImplementation.passwordText"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Giris yap butonuna tiklanir' using 'class org.example.StepImplementation.LogInButton"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Pop-up'ları kapat' using 'class org.example.StepImplementation.closePopups"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Anasayfa'ya gidilir' using 'class org.example.StepImplementation.clickToHomeButton"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Pop-up'ları kapat' using 'class org.example.StepImplementation.closePopups"}
+{"logLevel":"debug","message":"Executing 'Arama butonuna tiklanir' using 'class org.example.StepImplementation.clickToSearchButton"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Bordo cizme aratilir' using 'class org.example.StepImplementation.searchForBurgundyBoot"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Pop-up'ları kapat' using 'class org.example.StepImplementation.closePopups"}
+{"logLevel":"debug","message":"Executing 'Rastgele bir ürün seçilir' using 'class org.example.StepImplementation.selectRandomProduct"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sepete urun eklenir' using 'class org.example.StepImplementation.addProductToTheCart"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Rastgele bir beden seçilir' using 'class org.example.StepImplementation.selectRandomProductSize"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Rastgele secilen beden sepete eklenir' using 'class org.example.StepImplementation.addProductToTheCart2"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sepete gidilir' using 'class org.example.StepImplementation.goToTheCart"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Urun silinir' using 'class org.example.StepImplementation.removeProductFromTheCart"}
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sepetin bos oldugu kontrol edilir' using 'class org.example.StepImplementation.verifyBasket"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

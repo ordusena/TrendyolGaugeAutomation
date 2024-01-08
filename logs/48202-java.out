@@ -1,0 +1,39 @@
+Listening for transport dt_socket at address: 51528
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.PlatformDependent).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 492milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 492"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 51536"}
+{"logLevel":"info","message":"Listening on port:51536"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.passwordText' and 'org.example.StepImplementation.passwordText'"}
+{"logLevel":"debug","message":"Found Sifre yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitWitSeconds' and 'org.example.StepImplementation.waitWitSeconds'"}
+{"logLevel":"debug","message":"Found {} saniye kadar beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInAccount' and 'org.example.StepImplementation.LogInAccount'"}
+{"logLevel":"debug","message":"Found Kullanici adi yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopup' and 'org.example.StepImplementation.closePopup'"}
+{"logLevel":"debug","message":"Found PopUp kapatilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.loginPermission' and 'org.example.StepImplementation.loginPermission'"}
+{"logLevel":"debug","message":"Found Trendyol sayfası açılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickLogIn' and 'org.example.StepImplementation.clickLogIn'"}
+{"logLevel":"debug","message":"Found Hesaba tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.genderButton' and 'org.example.StepImplementation.genderButton'"}
+{"logLevel":"debug","message":"Found Cinsiyet secilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInButton' and 'org.example.StepImplementation.LogInButton'"}
+{"logLevel":"debug","message":"Found Giris yap butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSifre yazilir : public void passwordText()"}
+{"logLevel":"debug","message":"\tCinsiyet secilir : public void genderButton()"}
+{"logLevel":"debug","message":"\tPopUp kapatilir : public void closePopup()"}
+{"logLevel":"debug","message":"\tGiris yap butonuna tiklanir : public void LogInButton()"}
+{"logLevel":"debug","message":"\tTrendyol sayfası açılır : public void loginPermission()"}
+{"logLevel":"debug","message":"\t{} saniye kadar beklenir : public void waitWitSeconds(ınt Key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tHesaba tiklanir : public void clickLogIn()"}
+{"logLevel":"debug","message":"\tKullanici adi yazilir : public void LogInAccount()"}
+....Android baslatildi....

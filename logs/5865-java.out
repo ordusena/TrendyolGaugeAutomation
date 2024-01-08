@@ -1,0 +1,203 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 592milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 592"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 63227"}
+{"logLevel":"info","message":"Listening on port:63227"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectRandomProductSize' and 'org.example.StepImplementation.selectRandomProductSize'"}
+{"logLevel":"debug","message":"Found Rastgele bir beden seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToExitButton' and 'org.example.StepImplementation.clickToExitButton'"}
+{"logLevel":"debug","message":"Found Hesaptan cikis yapilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.loginPermission' and 'org.example.StepImplementation.loginPermission'"}
+{"logLevel":"debug","message":"Found Trendyol sayfası açılır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.addProductToTheCart' and 'org.example.StepImplementation.addProductToTheCart'"}
+{"logLevel":"debug","message":"Found Sepete urun eklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopups' and 'org.example.StepImplementation.closePopups'"}
+{"logLevel":"debug","message":"Found Pop-up'ları kapat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.searchForBurgundyBoot' and 'org.example.StepImplementation.searchForBurgundyBoot'"}
+{"logLevel":"debug","message":"Found Bordo cizme aratilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToLayoutAccountButton' and 'org.example.StepImplementation.clickToLayoutAccountButton'"}
+{"logLevel":"debug","message":"Found Hesap ayarlarina gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.addProductToTheCart2' and 'org.example.StepImplementation.addProductToTheCart2'"}
+{"logLevel":"debug","message":"Found Rastgele secilen beden sepete eklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.genderButton' and 'org.example.StepImplementation.genderButton'"}
+{"logLevel":"debug","message":"Found Cinsiyet secilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToMyAccountButton' and 'org.example.StepImplementation.clickToMyAccountButton'"}
+{"logLevel":"debug","message":"Found Hesabima gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.verifyBasket' and 'org.example.StepImplementation.verifyBasket'"}
+{"logLevel":"debug","message":"Found Sepetin bos oldugu kontrol edilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInButton' and 'org.example.StepImplementation.LogInButton'"}
+{"logLevel":"debug","message":"Found Giris yap butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.goToTheCart' and 'org.example.StepImplementation.goToTheCart'"}
+{"logLevel":"debug","message":"Found Sepete gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectRandomProduct' and 'org.example.StepImplementation.selectRandomProduct'"}
+{"logLevel":"debug","message":"Found Rastgele bir ürün seçilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.passwordText' and 'org.example.StepImplementation.passwordText'"}
+{"logLevel":"debug","message":"Found Sifre yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollDownPage' and 'org.example.StepImplementation.scrollDownPage'"}
+{"logLevel":"debug","message":"Found Sayfayı aşağı kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToHomeButton' and 'org.example.StepImplementation.clickToHomeButton'"}
+{"logLevel":"debug","message":"Found Anasayfa'ya gidilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitWitSeconds' and 'org.example.StepImplementation.waitWitSeconds'"}
+{"logLevel":"debug","message":"Found {} saniye kadar beklenir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.LogInAccount' and 'org.example.StepImplementation.LogInAccount'"}
+{"logLevel":"debug","message":"Found Kullanici adi yazilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.closePopup' and 'org.example.StepImplementation.closePopup'"}
+{"logLevel":"debug","message":"Found PopUp kapatilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickLogIn' and 'org.example.StepImplementation.clickLogIn'"}
+{"logLevel":"debug","message":"Found Hesaba tiklanir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollDownPage2' and 'org.example.StepImplementation.scrollDownPage2'"}
+{"logLevel":"debug","message":"Found Sayfayı aşağı kaydır2 in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.removeProductFromTheCart' and 'org.example.StepImplementation.removeProductFromTheCart'"}
+{"logLevel":"debug","message":"Found Urun silinir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickToSearchButton' and 'org.example.StepImplementation.clickToSearchButton'"}
+{"logLevel":"debug","message":"Found Arama butonuna tiklanir in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tSayfayı aşağı kaydır2 : public void scrollDownPage2()"}
+{"logLevel":"debug","message":"\tGiris yap butonuna tiklanir : public void LogInButton()"}
+{"logLevel":"debug","message":"\tBordo cizme aratilir : public void searchForBurgundyBoot()"}
+{"logLevel":"debug","message":"\t{} saniye kadar beklenir : public void waitWitSeconds(ınt Key) throws InterruptedException"}
+{"logLevel":"debug","message":"\tArama butonuna tiklanir : public void clickToSearchButton()"}
+{"logLevel":"debug","message":"\tSifre yazilir : public void passwordText()"}
+{"logLevel":"debug","message":"\tTrendyol sayfası açılır : public void loginPermission()"}
+{"logLevel":"debug","message":"\tSepetin bos oldugu kontrol edilir : public void verifyBasket()"}
+{"logLevel":"debug","message":"\tPop-up'ları kapat : public void closePopups()"}
+{"logLevel":"debug","message":"\tSepete urun eklenir : public void addProductToTheCart()"}
+{"logLevel":"debug","message":"\tHesaba tiklanir : public void clickLogIn()"}
+{"logLevel":"debug","message":"\tKullanici adi yazilir : public void LogInAccount()"}
+{"logLevel":"debug","message":"\tAnasayfa'ya gidilir : public void clickToHomeButton()"}
+{"logLevel":"debug","message":"\tRastgele bir ürün seçilir : public void selectRandomProduct()"}
+{"logLevel":"debug","message":"\tHesap ayarlarina gidilir : public void clickToLayoutAccountButton()"}
+{"logLevel":"debug","message":"\tHesaptan cikis yapilir : public void clickToExitButton()"}
+{"logLevel":"debug","message":"\tPopUp kapatilir : public void closePopup()"}
+{"logLevel":"debug","message":"\tSayfayı aşağı kaydır : public void scrollDownPage()"}
+{"logLevel":"debug","message":"\tRastgele bir beden seçilir : public void selectRandomProductSize()"}
+{"logLevel":"debug","message":"\tRastgele secilen beden sepete eklenir : public void addProductToTheCart2()"}
+{"logLevel":"debug","message":"\tCinsiyet secilir : public void genderButton()"}
+{"logLevel":"debug","message":"\tHesabima gidilir : public void clickToMyAccountButton()"}
+{"logLevel":"debug","message":"\tUrun silinir : public void removeProductFromTheCart()"}
+{"logLevel":"debug","message":"\tSepete gidilir : public void goToTheCart()"}
+....Android baslatildi....
+Ara 04, 2023 10:44:25 ÖÖ io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Trendyol sayfası açılır' using 'class org.example.StepImplementation.loginPermission"}
+[31m2023-12-04 10:44:26,243 +03:00 ERROR StepImplementation:34 loginPermission - Tıklama sırasında hata oluştu
+[m org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ip-10-1-32-117.eu-central-1.compute.internal', ip: 'fe80:0:0:0:490:46d8:2842:6267%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '12.2.1', java.version: '21'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {appActivity: com.trendyol.common.splash...., appPackage: trendyol.com, autoGrantPermissions: true, databaseEnabled: false, desired: {appActivity: com.trendyol.common.splash...., appPackage: trendyol.com, autoGrantPermissions: true, deviceName: emulator-5554, newCommandTimeout: 3000, platformName: android}, deviceApiLevel: 30, deviceManufacturer: Google, deviceModel: sdk_gphone_arm64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 3000, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 89529396-5532-4154-97e7-b8b559eaf0ad
+*** Element info: {Using=id, value=trendyol.com:id/tab_account}
+	at jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:486) ~[?:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49) ~[selenium-remote-driver-3.141.59.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:61) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:69) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.By$ById.findElement(By.java:188) ~[selenium-api-3.141.59.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315) ~[selenium-remote-driver-3.141.59.jar:?]
+	at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1) ~[java-client-7.3.0.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:641) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.ExpectedConditions$22.apply(ExpectedConditions.java:638) ~[selenium-support-3.141.59.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249) ~[selenium-support-3.141.59.jar:?]
+	at org.example.methods.Methods.waitForElementToBeClickable(Methods.java:92) ~[test-classes/:?]
+	at org.example.StepImplementation.loginPermission(StepImplementation.java:26) ~[test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:580) ~[?:?]
+	at com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:30) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:66) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:59) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:41) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:14) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:33) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:19) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:44) ~[gauge-java-0.9.1.jar:?]
+	at com.thoughtworks.gauge.RunnerServiceHandler.lambda$executeStep$7(RunnerServiceHandler.java:166) ~[gauge-java-0.9.1.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Cinsiyet secilir' using 'class org.example.StepImplementation.genderButton"}
+[32m2023-12-04 10:44:36,525 +03:00 INFO  Methods:70 click - trendyol.com:id/buttonSelectGenderWoman Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'PopUp kapatilir' using 'class org.example.StepImplementation.closePopup"}
+[32m2023-12-04 10:44:38,722 +03:00 INFO  Methods:70 click - trendyol.com:id/imageViewTooltipClose Butonuna tiklandi
+[m[32m2023-12-04 10:44:38,724 +03:00 INFO  StepImplementation:54 closePopup - PopUp başarıyla kapatıldı
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Hesaba tiklanir' using 'class org.example.StepImplementation.clickLogIn"}
+[32m2023-12-04 10:44:44,725 +03:00 INFO  Methods:70 click - trendyol.com:id/tab_account Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Kullanici adi yazilir' using 'class org.example.StepImplementation.LogInAccount"}
+[32m2023-12-04 10:44:46,556 +03:00 INFO  Methods:70 click - trendyol.com:id/editTextEmail Butonuna tiklandi
+[m[32m2023-12-04 10:44:46,566 +03:00 INFO  Methods:74 sendKeys - trendyol.com:id/editTextEmail ya senaordu97@gmail.com yazildi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sifre yazilir' using 'class org.example.StepImplementation.passwordText"}
+[32m2023-12-04 10:44:49,464 +03:00 INFO  Methods:70 click - trendyol.com:id/editTextPassword Butonuna tiklandi
+[m[32m2023-12-04 10:44:49,467 +03:00 INFO  Methods:74 sendKeys - trendyol.com:id/editTextPassword ya imran1992 yazildi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Giris yap butonuna tiklanir' using 'class org.example.StepImplementation.LogInButton"}
+[32m2023-12-04 10:44:52,813 +03:00 INFO  Methods:70 click - trendyol.com:id/buttonLogin Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Pop-up'ları kapat' using 'class org.example.StepImplementation.closePopups"}
+[32m2023-12-04 10:45:01,891 +03:00 INFO  StepImplementation:101 closePopups - Popup başarıyla kapatıldı
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Anasayfa'ya gidilir' using 'class org.example.StepImplementation.clickToHomeButton"}
+[32m2023-12-04 10:45:05,087 +03:00 INFO  Methods:70 click - trendyol.com:id/tab_home Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Pop-up'ları kapat' using 'class org.example.StepImplementation.closePopups"}
+[32m2023-12-04 10:45:10,463 +03:00 INFO  StepImplementation:101 closePopups - Popup başarıyla kapatıldı
+[m{"logLevel":"debug","message":"Executing 'Arama butonuna tiklanir' using 'class org.example.StepImplementation.clickToSearchButton"}
+[32m2023-12-04 10:45:10,854 +03:00 INFO  Methods:70 click - trendyol.com:id/edittext_search_view Butonuna tiklandi
+[m[32m2023-12-04 10:45:10,855 +03:00 INFO  Methods:74 sendKeys - trendyol.com:id/edittext_search_view ya bordo çizme yazildi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Bordo cizme aratilir' using 'class org.example.StepImplementation.searchForBurgundyBoot"}
+[32m2023-12-04 10:45:17,212 +03:00 INFO  Methods:70 click - //android.widget.TextView[@resource-id="trendyol.com:id/textViewSearchSuggestionText" and @text="bordo çizme"] Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Pop-up'ları kapat' using 'class org.example.StepImplementation.closePopups"}
+[32m2023-12-04 10:45:24,241 +03:00 INFO  StepImplementation:101 closePopups - Popup başarıyla kapatıldı
+[m{"logLevel":"debug","message":"Executing 'Rastgele bir ürün seçilir' using 'class org.example.StepImplementation.selectRandomProduct"}
+[32m2023-12-04 10:45:24,460 +03:00 INFO  Methods:137 clickRandomProduct - Rastgele bir ürün seçildi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sepete urun eklenir' using 'class org.example.StepImplementation.addProductToTheCart"}
+[32m2023-12-04 10:45:29,360 +03:00 INFO  Methods:70 click - trendyol.com:id/primaryButton Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Rastgele bir beden seçilir' using 'class org.example.StepImplementation.selectRandomProductSize"}
+[32m2023-12-04 10:45:35,726 +03:00 INFO  Methods:160 clickRandomProductSize - Rastgele bir beden seçildi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Rastgele secilen beden sepete eklenir' using 'class org.example.StepImplementation.addProductToTheCart2"}
+[32m2023-12-04 10:45:40,043 +03:00 INFO  Methods:70 click - trendyol.com:id/variantSelectionDialogPrimaryButton Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Sepete gidilir' using 'class org.example.StepImplementation.goToTheCart"}
+[32m2023-12-04 10:45:45,289 +03:00 INFO  Methods:70 click - trendyol.com:id/productDetailBasket Butonuna tiklandi
+[m{"logLevel":"debug","message":"Executing '{} saniye kadar beklenir' using 'class org.example.StepImplementation.waitWitSeconds"}
+{"logLevel":"debug","message":"Executing 'Urun silinir' using 'class org.example.StepImplementation.removeProductFromTheCart"}
+[32m2023-12-04 10:45:50,564 +03:00 INFO  Methods:70 click - trendyol.com:id/imageViewDeleteProduct Butonuna tiklandi
+[m{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
